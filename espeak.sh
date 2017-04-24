@@ -1,2 +1,2 @@
 #!/bin/bash
-espeak 'daemon' -w espeak.daemon.wav
+espeak 'daemon' -p 10 -s 120 -w espeak.daemon.wav
